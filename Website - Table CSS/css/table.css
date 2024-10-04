@@ -15,7 +15,7 @@ body {
 }
 
 .page-content {
-    display: table-row;
+    display: table-row-group;
     width: 100%;
 }
 
